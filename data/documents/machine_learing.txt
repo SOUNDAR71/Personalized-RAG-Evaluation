@@ -1,0 +1,17 @@
+Machine Learing 
+
+machine Learing is a branch of artificial intelligence that allows 
+computers to learn patterns from data.
+
+supervised Learing uses labelled training data. Common supervised
+Learing tasks including classification and regression.
+
+classification is used when the target variable consists of categories.
+
+regression is used when the target variable is a continuous numerical value.
+
+Overfitting occurs when a machine learning model learn the training
+data too closely and performs poorly on unseen data.
+
+Regularization is a technique used to reduce overfitting by adding
+a penalty to the model's complexity.
